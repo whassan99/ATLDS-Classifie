@@ -1,2 +1,3 @@
-# ATLDS-Classifie
-TLDS is an adaptive traffic light and autonomous system that is able to autonomously direct itself to determine the most efficient traffic cycle.
+# ATLDS-Classifier
+TLDS is an adaptive traffic light and autonomous system that can autonomously direct itself to determine the most efficient traffic cycle. It is capable of providing real-time vehicle counting, vehicle classification, and scenario classification through the use of cameras that feed data into the ATLDS core algorithm. ATLDS is capable of counting, classification, and detection without the need for human intervention, allowing the city to improve traffic flow management.
+I created both a Convolution Neural Network algorithm using a Tensorflow/Keras framework and a Support Vector Machine algorithm to classify traffic light images.
